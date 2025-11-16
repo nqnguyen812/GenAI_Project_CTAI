@@ -3,7 +3,7 @@ LAZADA_CATEGORIES = [
     {
         'name': 'Trang phục nam',
         'url': 'https://www.lazada.vn/catalog/?spm=a2o4n.searchlist.cate_9.1.39072626OX3ZvK&q=Trang%20ph%E1%BB%A5c%20nam&from=hp_categories&src=all_channel',
-        'maxProducts': 3  # Change this number to crawl more products (e.g., 50, 100)
+        'maxProducts': 5  # Change this number to crawl more products (e.g., 50, 100)
     },
     # {
     #     'name': 'Giày dép nam',
