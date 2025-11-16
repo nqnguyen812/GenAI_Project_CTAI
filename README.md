@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Lazada Crawler - Python Version
 
 Web crawler để thu thập dữ liệu sản phẩm từ Lazada Vietnam, sử dụng Python với Selenium và undetected-chromedriver để tránh bot detection.
@@ -189,3 +190,6 @@ MIT License
 ## Disclaimer
 
 Tool này chỉ dùng cho mục đích học tập và nghiên cứu. Vui lòng tuân thủ Terms of Service của Lazada.
+=======
+# GenAI_Project_CTAI
+>>>>>>> a53b00fefdc7a01d6ac658c2c0c03a52f3c5d078
