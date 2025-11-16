@@ -1,0 +1,20 @@
+{
+  "name": "shopee-crawler",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "tsx crawler.ts",
+    "lazada": "tsx lazada-crawler.ts"
+  },
+  "dependencies": {
+    "puppeteer": "^21.6.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "cheerio": "^1.0.0-rc.12"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.5",
+    "tsx": "^4.7.0",
+    "typescript": "^5.3.3"
+  }
+}

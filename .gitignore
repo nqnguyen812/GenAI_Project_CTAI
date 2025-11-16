@@ -1,0 +1,26 @@
+node_modules/
+data/
+*.log
+.DS_Store
+*.pem
+SETUP_MULTI_SSH.md
+
+# Chrome browser downloaded by Puppeteer
+chrome/
+.cache/
+
+.claude/
+
+# Test files
+test-*.ts
+test-*.js
+debug-*.ts
+run-test.ts
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.pytest_cache/
